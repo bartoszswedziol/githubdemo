@@ -1,3 +1,3 @@
 # githubdemo
 
-This is the initial version of the README
+This is the second version of the README
